@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+}
+
+.col2 {
+  padding: 0px 30px;
+  background: white;
+  border-radius: 15px;
+}
+.row1 {
+  text-align: center;
+  padding: 12px 0px;
+
+  margin-bottom: 10px;
+}
+.row2 {
+  margin: 10px 0px;
+}
+h1 {
+  font-size: 30px;
+  color: orange;
+  font-weight: bold;
+}
+p {
+  font-size: 16px;
+}
+.forminner {
+  width: 90%;
+}
+.forminner2 {
+  width: 100%;
+  height: 35px;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.time {
+  width: 45%;
+  text-align: center;
+  height: 25px;
+}
